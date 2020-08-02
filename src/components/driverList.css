@@ -1,0 +1,16 @@
+.driversListHeight {
+    height: 89vh;
+    border-top-style: solid;
+     border-top-color: red;
+  }
+.hoverDriversList:hover {
+    background-color: green;
+
+} 
+.scrollBar{
+    overflow-y: scroll;
+    
+}
+.inlineBlock{
+    display: inline-block;
+}

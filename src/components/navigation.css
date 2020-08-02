@@ -1,0 +1,8 @@
+.navbarHeight {
+    height: 100vh;
+  }
+.hoverNavs:hover {
+    background-color: green;
+    color: wheat;
+
+} 

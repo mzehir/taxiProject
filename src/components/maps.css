@@ -1,0 +1,9 @@
+.mapHeight {
+    height: 89vh;
+  }
+.bgColorBlackToWhite {
+    background: linear-gradient(to right,white, #ec0a16);
+  }
+.borderTop{
+    border-left: solid red;
+  }
